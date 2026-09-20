@@ -1,6 +1,6 @@
 ## Notes
 
-#Introduction to AI Fluency
+# Introduction to AI Fluency
 
 This course focuses on human-AI collaboration, not just understanding AI as a technology
 AI Fluency means engaging with AI systems effectively, efficiently, ethically, and safely
