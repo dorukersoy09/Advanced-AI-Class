@@ -94,3 +94,20 @@ Process Discernment involves assessing how the AI arrived at its output, looking
 Performance Discernment evaluates how the AI behaves within the collaboration process itself, considering whether its communication style is effective for your needs
 Discernment works hand-in-hand with Description in a continuous feedback loop
 Even the most advanced AI systems benefit from human judgment and oversight
+
+# A closer look at Diligence
+Diligence is about taking responsibility for our AI collaborations
+Creation Diligence involves being thoughtful about which AI systems we use and how we engage with them
+Transparency Diligence means being honest about AI's role in our work with everyone who needs to know
+Deployment Diligence requires taking responsibility for verifying and vouching for the outputs we use or share
+Different contexts (personal, academic, professional) may have different expectations for disclosure and verification
+Thoughtful Diligence helps ensure our AI collaborations are not only effective and efficient, but also ethical and safe
+
+# Conclusuin to AI fluency
+AI Fluency develops through intentional practice of the four core competencies
+Delegation emphasizes that our expertise and judgment remain the foundation of effective AI collaboration
+Description involves clear communication that bridges our intentions and AI capabilities
+Discernment requires thoughtful and critical evaluation of outputs to work within the systems constraints
+Diligence ensures accountability, transparency, and responsibility in our AI work
+The most powerful outcomes emerge when humans and AI build on each other's strengths
+The framework is designed to remain relevant as AI systems continue to evolve
