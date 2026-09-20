@@ -42,7 +42,7 @@ Diligence: Ensuring responsible AI collaboration
 These competencies apply across all three ways of working with AI
 Developing these competencies prepares you for evolving AI capabilities
 
-#Generative AI capabilities & limitations
+# Generative AI capabilities & limitations
 Key takeaways
 Generative AI creates new content (text, images, code) rather than just analyzing existing data
 Modern systems like LLMs were made possible by three key developments:
@@ -54,7 +54,7 @@ Current capabilities include versatility across tasks, conversational awareness,
 Current limitations include knowledge cutoff dates, potential for hallucinations, context window constraints, and challenges with complex reasoning
 The most effective applications combine human and AI strengths, with humans providing critical thinking, judgment, creativity, and ethical oversight
 
-#Delegation
+# Delegation
 Key takeaways
 Delegation is about making thoughtful decisions about what work to do yourself, what to do together with AI, or what to let AI handle independently, and how to distribute those tasks.
 Problem Awareness means clearly understanding your goals and the nature of the work before involving AI.
@@ -63,4 +63,4 @@ Task Delegation is the process of thoughtfully distributing work between humans 
 Effective delegation requires both domain expertise and an understanding of AI capabilities.
 The goal isn't to automate everything, but to create the most effective human-AI partnership for any given task or goal.
 
-#Description
+# Description
