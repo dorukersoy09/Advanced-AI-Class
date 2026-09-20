@@ -1,4 +1,4 @@
-##Notes
+## Notes
 
 #Introduction to AI Fluency
 Key takeaways
@@ -8,12 +8,12 @@ The AI Fluency Framework centers on the "4D" competencies of Delegation, Descrip
 The goal is to develop lasting skills that remain relevant as AI technology evolves
 Effective AI collaboration requires both practical skills and a fundamental shift in how we think about working with AI
 
-#Why do we need AI Fluency?
+# Why do we need AI Fluency?
 Automation: The AI completes specific tasks based on your instructions.
 Augmentation: You and AI collaborate as creative thinking and task execution partners.
 Agency: You configure AI to work independently on your behalf, establishing its knowledge and behavior patterns rather than just giving it specific tasks.
 
-#The 4D Framework
+# The 4D Framework
 <img width="940" height="705" alt="Screenshot 2026-09-20 at 20 53 53" src="https://github.com/user-attachments/assets/a7db8519-650a-4d41-a017-4753b24e8553" />
 delegation, which focuses on the big picture. What are you trying to accomplish? What kinds of work are involved? What work should you handle yourself? And where might AI be helpful? Think about a research project you're working on. You might decide to have your AI assistant review lengthy documents and data, then engage in a thoughtful discussion about the implications and findings, but reserve the critical analysis and final conclusions for yourself. To delegate effectively, you need to understand your goal and the problem you're solving, recognize what AI can and can't do well, and lastly, thoughtfully divide the work between you and the AI. Delegation isn't just about offloading tasks. It's about having a clear vision and strategically choosing how AI fits into your process. This thoughtful approach is essential for both effective and efficient AI collaboration.
 
