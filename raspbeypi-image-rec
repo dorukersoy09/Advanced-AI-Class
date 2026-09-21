@@ -1,0 +1,12 @@
+# image recognission project
+we first download rasbery pi imager 
+https://www.raspberrypi.com/software/
+then we currenttly have rasbery pi 4 so we sellect that;
+sellected raspberry pi 64 bit;
+sellected the SD card that will go in the rasbery pi;
+in the next page i skiped the personalizeing part;
+pressed write.
+
+after it is flashed we put it in the rasberry pi and used a monitor to see its UI
+after sellecting and adjusting the country reigon settings i used the default pi log in 'pi' as username and 'raspberry' as the password.
+then we wait for it to complete the latest updates.
