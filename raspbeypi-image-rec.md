@@ -459,6 +459,7 @@ toothbrush
 ---
 
 # 13. First Object Detection Program
+<img width="640" height="480" alt="detection" src="https://github.com/user-attachments/assets/3f9bc335-2f8f-4c30-9101-ec24b04ef608" />
 
 We created:
 
